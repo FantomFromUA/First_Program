@@ -1,0 +1,22 @@
+{
+  "name": "first_program",
+  "version": "1.0.0",
+  "description": "First program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FantomFromUA/LabPrct.git"
+  },
+  "author": "Erik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FantomFromUA/LabPrct/issues"
+  },
+  "homepage": "https://github.com/FantomFromUA/LabPrct#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
